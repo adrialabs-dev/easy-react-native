@@ -1,0 +1,19 @@
+{
+  "name": "ern-cli",
+  "version": "1.0.0",
+  "description": "A simple tool for a quick React Native installation",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AdriaLabs",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.15",
+    "ora": "^8.0.1"
+  },
+  "type": "module"
+}
