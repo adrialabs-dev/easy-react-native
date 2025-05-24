@@ -1,12 +1,21 @@
-# Welcome Easy React Native
+# Easy React Native CLI 🚀
 
-An easy way to start a React Native application.
+**Simplify your React Native project setup with essential packages in one command!**
 
-# Important
+## Prerequisites
 
-This is not a framework over React Native like expo, just make more easy the instalation of some packages in a React Native Mobile App
+Before using this tool, ensure you have:
+- Set up the [React Native CLI environment](https://reactnative.dev/docs/environment-setup)
+- Node.js 18 or later
+- npm/yarn installed
 
-# Usage
+## Overview
+
+Easy React Native CLI is a zero-configuration tool that automates the installation of common React Native packages, saving you time during project initialization.
+
+⚠️ **Note**: This is not a framework like Expo, but rather a productivity tool that simplifies package installation for standard React Native CLI projects.
+
+## Usage
 
 run on your terminal
 ```
